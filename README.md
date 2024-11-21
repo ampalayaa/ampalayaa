@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Frances Bea Magdayao!  
+# Hi there 👋, I'm Bea!  
 
 ### 🌟 About Me
 - 🌱 Learning **Python, Django, PHP, C**, and API development.  
