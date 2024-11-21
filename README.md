@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Frances Bea Magdayao!  
 
-<!--
-**ampalayaa/ampalayaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 🌱 Learning **Python, Django, PHP, C**, and API development.  
+- 💻 Aspiring software developer with a focus on building APIs and practical web applications.  
+- 🛠️ Currently exploring **dashboard projects** and portfolio-building techniques.  
+- 🎯 Goals: Master **full-stack development** and create impactful projects.  
 
-Here are some ideas to get you started:
+### ⚡ Tech Skills  
+- **Languages:** Python, PHP, C, JavaScript  
+- **Frameworks:** Django, Flask  
+- **Tools:** Git, VS Code, Postman  
+- **Database:** SQLite, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats  
+![Frances Bea Magdayao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampalayaa&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ampalayaa&layout=compact&theme=radical)
+
+### Badges :ribbon:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>  
+
+### 📫 Connect with Me  
+- 📧 **Email:** [magdayaofrances@gmail.com](mailto:magdayaofrances@gmail.com)  
+<!-- - 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com) --> 
+
