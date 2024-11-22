@@ -3,14 +3,13 @@
 ### 🌟 About Me
 - 🌱 Learning **Python, Django, PHP, C**, and API development.  
 - 💻 Active member of **[CC6-Pancake](https://github.com/CC6-Pancake)**.
-- 🛠️ Currently exploring **dashboard projects** and portfolio-building techniques.  
-- 🎯 Goals: Master **full-stack development** and create impactful projects.  
+- 🎯 Goals: to finish 4 projects for 1 month :smiley: 
 
 ### ⚡ Tech Skills  
-- **Languages:** Python, PHP, C, JavaScript  
-- **Frameworks:** Django, Flask  
-- **Tools:** Git, VS Code, Postman  
-- **Database:** SQLite, MySQL  
+- **Languages:** Python, PHP, C, C#, Prolog, Fortran :suspect:
+- **Frameworks:** Django
+- **Tools:** Git, VS Code 
+- **Database:** MySQL  
 
 ### 📈 GitHub Stats  
 ![ampalayaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampalayaa&show_icons=true&theme=radical)  
