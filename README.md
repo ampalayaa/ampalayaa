@@ -6,8 +6,8 @@
 - 🎯 Goals: to finish 4 projects for 1 month :smiley: 
 
 ### ⚡ Tech Skills  
-- **Languages:** Python, PHP, C, C#, Prolog, Fortran :suspect:
-- **Frameworks:** Django
+- **Languages:** Python, PHP, C, C#
+- **Frameworks:** Django, Flask
 - **Tools:** Git, VS Code 
 - **Database:** MySQL  
 
