@@ -1,15 +1,9 @@
 # Hi there 👋, I'm Bea!  
 
 ### 🌟 About Me
-- 🌱 Learning **Python, Django, PHP, C**, and API development.  
+- 🌱 Learning **Python (Django), JS, PHP, C**, Bootstrap, and API development.  
 - 💻 Active member of **[CC6-Pancake](https://github.com/CC6-Pancake)**.
-- 🎯 Goals: to finish 4 projects for 1 month :smiley: 
-
-### ⚡ Tech Skills  
-- **Languages:** Python, PHP, C, C#
-- **Frameworks:** Django, Flask
-- **Tools:** Git, VS Code 
-- **Database:** MySQL  
+- 🎯 Goal: eat pasta after debugging an error :smiley: 
 
 ### 📈 GitHub Stats  
 ![ampalayaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampalayaa&show_icons=true&theme=radical)  
@@ -17,6 +11,4 @@
 
 ### 📫 Connect with Me  
 - 📧 **Email:** [magdayaofrances@gmail.com](mailto:magdayaofrances@gmail.com)  
-- 🐦 **Twitter:** [@euph3_3](https://x.com/euph3_3)
-<!-- - 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com) --> 
 
